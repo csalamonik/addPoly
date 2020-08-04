@@ -1,6 +1,6 @@
 # Function addPoly()
 
-It is function to add two simple polymials represented by two arrays. Each arrays consist arrays, which represent part of added expresions. First elements in each array mean coefficients. Second elements mean exponents.
+It is function to add two simple polymials represented by two arrays. 
 
 ## Inputs/Outputs
     OUTPUT = addPoly(INPUT1, INPUT2)
